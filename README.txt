@@ -1,2 +1,1 @@
-Menambahkan fitur dashboard proyek 
-Menambahkan fitur notifikasi pada proyek 
+fitur nnotifikasi 
